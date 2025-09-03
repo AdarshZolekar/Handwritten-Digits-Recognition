@@ -63,7 +63,7 @@ pip install tensorflow numpy matplotlib
 
 - Hands-on with TensorFlow & Keras
 
-- Experience in image preprocessing
+- Experience in image preprocessing.
 
 ---
 
@@ -77,7 +77,7 @@ pip install tensorflow numpy matplotlib
 
 - Experiment with additional datasets (letters, symbols) for broader recognition 
  
-- Hyperparameter tuning and regularization to reduce overfitting  
+- Hyperparameter tuning and regularization to reduce overfitting. 
 
 ---
 
@@ -96,3 +96,4 @@ Feel free to open issues or submit pull requests for improvements or bug fixes!
     <img src="https://img.shields.io/badge/%E2%AC%86-Back%20to%20Top-blue?style=for-the-badge" alt="Back to Top"/>
   </a>
 </p>
+
