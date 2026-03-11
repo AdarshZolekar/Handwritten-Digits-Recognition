@@ -1,4 +1,4 @@
-## Handwritten Digits Recognition 
+## Handwritten Digits Recognition
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AdarshZolekar/Handwritten-Digits-Recognition/blob/main/MNIST-Digits-Recognition.ipynb)
 
@@ -96,6 +96,7 @@ Feel free to open issues or submit pull requests for improvements or bug fixes!
     <img src="https://img.shields.io/badge/%E2%AC%86-Back%20to%20Top-blue?style=for-the-badge" alt="Back to Top"/>
   </a>
 </p>
+
 
 
 
