@@ -14,7 +14,7 @@ A simple deep learning project using TensorFlow and Keras to classify handwritte
 
 ## Dataset
 
-- Training images: 60,000  
+- Training images: 60,000 
 - Test images: 10,000  
 - Image size: 28x28 (grayscale)
 
@@ -96,6 +96,7 @@ Feel free to open issues or submit pull requests for improvements or bug fixes!
     <img src="https://img.shields.io/badge/%E2%AC%86-Back%20to%20Top-blue?style=for-the-badge" alt="Back to Top"/>
   </a>
 </p>
+
 
 
 
